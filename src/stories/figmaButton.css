@@ -1,0 +1,41 @@
+.figma-custom-button-1 {
+    flex-direction: row;
+    justify-content: center;
+    padding: 11px 20px;
+    gap: 8px;
+    background: #026039;
+    border-radius: 3px;
+    border: 1px solid #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 1;
+    color: #FFFFFF;
+}
+
+.figma-custom-button-2 {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 11px 20px;
+    gap: 8px;
+    border: 1px solid #026039;
+    border-radius: 3px;
+    color: #026039;
+    flex: none;
+    order: 1;
+    flex-grow: 1;
+
+}
+
+.font-inter {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
